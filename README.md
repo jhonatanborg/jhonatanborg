@@ -18,7 +18,7 @@
   😄 Meus hobbies envolvem música e anime <br>
 <p align="center">
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhonatanborg&show_icons=true&hide=prs,issues&include_all_commits=true&count_private=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jhonatanborg&show_icons=true&hide=prs,issues&include_all_commits=true&count_private=true&theme=default" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanborg&layout=compact&hide=php" />
 
 </p>
