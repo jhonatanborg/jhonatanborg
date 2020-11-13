@@ -9,7 +9,4 @@
   🚀 Pergunte-me sobre interfaces, design system, experiência de usuário e usabilidade <br>
   <br>
   😄 Meus hobbies envolvem música e anime <br>
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatanborg&layout=compact&hide=php" />
 
-</p>
