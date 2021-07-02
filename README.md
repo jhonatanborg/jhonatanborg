@@ -1,12 +1,6 @@
 ### Eai, 👋 tudo bom?
 ----
-  💙 Me mantenho atualizado com as tecnologias mais recentes para projetar o futuro <br>
-  <br>
-  📚 Cursando <b> Sistemas de Informação </b> de Unemat - Campus Sinop  <br>
-  <br>
-  🚀 Pergunte-me sobre interfaces, design system, experiência de usuário e usabilidade <br>
-  <br>
-  😄 Meus hobbies envolvem música e anime <br>
+ Atualmente estou cursando <b> Sistemas de Informação </b> de Unemat - Campus Sinop  <br> e sempre tento me manter atualizado com as tecnologias mais recentes para projetar o futuro
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
