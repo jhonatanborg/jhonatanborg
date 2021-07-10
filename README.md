@@ -1,6 +1,6 @@
 ### Eai, 👋 tudo bom?
 ----
- Atualmente estou cursando <b> Sistemas de Informação </b> de Unemat - Campus Sinop  <br> e sempre tento me manter atualizado com as tecnologias mais recentes para projetar o futuro
+ Atualmente estou cursando <b> Sistemas de Informação </b> de Unemat - Campus Sinop.  <br> Estou sempre tentando me manter atualizado com as tecnologias mais recentes para projetar o futuro.
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
