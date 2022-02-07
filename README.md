@@ -1,10 +1,22 @@
-## 💜 Olá, meu nome é <strong>Jhonatan Borges!</strong>
-## 🚀 Minhas Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://i.imgur.com/O4ag59d.png" alt="Vue"/></code>
+
+
+### Hi there 👋
+
+#### I'm a Front-End Developer | UX/UI Designer working in João Pessoa, Brazil.
+
+##### NOW
+
+- 🇧🇷  Planing the "UP - design system";
+- 🪴 Studing UX concepts
+- 🍑 What about this?
+
+##### BIO
+
+- 🏢 I'm currently working at **Upstack**
+- ⚙️ I use daily: `.vue`, `.js`, `.html`, `.css`, `.jsx`, `.scss`, `.fig`
+- 🌍 I'm mostly active within the **discord dev**
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **api consume**, **ux process**, **development front end**, **ui designer**
+- 📫 Reach me: [twitter.com/jhonatanborg](https://twitter.com/jhonatanborg)
+- ⚡️ Fun fact: I'm a huge fan of sci-fi
