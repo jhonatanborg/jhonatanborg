@@ -9,7 +9,6 @@
 
 - 🇧🇷  Planing the "UP - design system";
 - 🪴 Studing UX concepts
-- 🍑 What about this?
 
 ##### BIO
 
